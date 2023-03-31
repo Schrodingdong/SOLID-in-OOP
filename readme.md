@@ -3,7 +3,7 @@ This repo has 2 implementation of a data fetcher, mapper, and file writer :
 - A naive implementation
 - A more thought of implementation
 
-## Wrong implementation
+## Naive implementation
 Many problems arise in this implementation, mainly :
 - Not separating Logical & State module
 - Hardcoded values
@@ -11,7 +11,7 @@ Many problems arise in this implementation, mainly :
 - No abstraction
 - Not following the SRP and OCP
 
-## Right implementation
+## Second implementation
 We tried to solve all of the above, for that we :
 - Use Interfaces & Generics for abstracting the code as much as possible
 - Followed the ISP, RSP, OCP
