@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7efad575-6d87-489a-9f45-e86bb04816a2" name="Changes" comment="✅ initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/schrodingdong/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/schrodingdong/right/DataFetcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/schrodingdong/right/DataToFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/schrodingdong/right/DataToObjectMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/schrodingdong/right/IDataFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/schrodingdong/right/IDataMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/schrodingdong/right/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/schrodingdong/wrong/DataFetcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/schrodingdong/wrong/Main.java" afterDir="false" />
+    <list default="true" id="7efad575-6d87-489a-9f45-e86bb04816a2" name="Changes" comment="✨ Added right and wrong implementation of &quot;Data Fetching Use Case&quot;">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680193763664</updated>
       <workItem from="1680193764767" duration="1164000" />
-      <workItem from="1680194956752" duration="13053000" />
+      <workItem from="1680194956752" duration="15506000" />
     </task>
     <task id="LOCAL-00001" summary="✅ initial commit">
       <created>1680194275911</created>
@@ -173,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680194275911</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="✨ Added right and wrong implementation of &quot;Data Fetching Use Case&quot;">
+      <created>1680233384363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680233384363</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +178,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="✅ initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="✅ initial commit" />
+    <MESSAGE value="✨ Added right and wrong implementation of &quot;Data Fetching Use Case&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ Added right and wrong implementation of &quot;Data Fetching Use Case&quot;" />
   </component>
 </project>
